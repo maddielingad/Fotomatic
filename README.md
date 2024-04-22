@@ -14,3 +14,13 @@ I was able to accomplish this project, but it definitely took a lot longer to co
 1. Follow the [design specs](https://static-assets.codecademy.com/Paths/full-stack-career-journey/Fotomatic/fotomatic_spec_landing_v2.png).
 2. Make the webpage responsive for desktop, tablet, and mobile.
 3. Use 'rem' units. 
+
+### Desktop View
+![Fotomatic Desktop](https://github.com/maddielingad/Fotomatic/assets/96184579/f5b7924f-f4ec-4f07-b791-76d625db8957)
+
+### Tablet View
+![Fotomatic Tablet](https://github.com/maddielingad/Fotomatic/assets/96184579/7a07e347-42fc-448d-ac32-ec743c162bf7)
+
+### Mobile View
+![image](https://github.com/maddielingad/Fotomatic/assets/96184579/0b2f10ac-bf8d-4d58-a578-e718b72a5b7d)
+![image](https://github.com/maddielingad/Fotomatic/assets/96184579/7e48a7be-6180-4bd4-a4a8-6b7c6441d76f)
